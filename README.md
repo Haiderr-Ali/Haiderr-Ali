@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Haiderr-Ali
 - 👀 I’m interested in Web development...
-- 📫 How to reach me https://www.linkedin.com/in/haider-ali-5701031a6
+- 📫 My Linkedin :- https://www.linkedin.com/in/haider-ali-5701031a6
+- 📧 My Email :- alihaiderali1050@gmail.com
 
 
 <!---
