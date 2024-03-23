@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Haiderr-Ali
-- 👀 I’m interested in Web development...
+- 👀 I’m a Frontend developer...
+- Skills: HTML,CSS,JavaScript,React.JS,Problem Solving.
 - 📫 My Linkedin :- https://www.linkedin.com/in/haider-ali-5701031a6
 - 📧 My Email :- alihaiderali1050@gmail.com
 
