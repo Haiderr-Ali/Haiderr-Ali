@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haiderr-Ali
 - 👀 I’m a Flutter developer...
-- Skills: Dart,Flutter,BLoC,HTML,CSS,JavaScript,React.JS,SQL,C++,Problem Solving.
+- Skills: Dart, Flutter, BLoC, HTML, CSS, JavaScript, React.JS, SQL, C++, Problem Solving.
 - 📫 My Linkedin :- https://www.linkedin.com/in/haider-ali-5701031a6
 - 📧 My Email :- alihaiderali1050@gmail.com
 
