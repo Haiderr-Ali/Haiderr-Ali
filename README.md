@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haiderr-Ali
 - 💻 Software Engineer...
-- Skills: Dart, Flutter, BLoC, Rest API, HTML, CSS, JavaScript, React.JS, SQL, C++, Problem Solving, DBMS.
+- Skills: React Native, Flutter, Dart, BLoC, Rest API, HTML, CSS, JavaScript, React.JS, SQL, C++, Problem Solving, DBMS.
 - 📫 My Linkedin :- https://www.linkedin.com/in/haider-ali-5701031a6
 - 📧 My Email :- alihaiderali1050@gmail.com
 
