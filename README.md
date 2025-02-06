@@ -6,13 +6,13 @@
 
 🛠 Tech Stack:
 
-Mobile: React Native, Flutter, Dart, BLoC, REST API
+📱 Mobile: React Native, Flutter, Dart, BLoC, REST API
 
-Web: React.js, HTML, CSS, JavaScript, Tailwind CSS
+🌐 Web: React.js, HTML, CSS, JavaScript, Tailwind CSS
 
-Backend & DB: Node.js, SQL, DBMS
+🗄 Backend & DB: Node.js, SQL, DBMS
 
-Core CS: Opererating System, Data Structures and Algorithm
+💻 Core CS: Opererating System, Data Structures and Algorithm
 
 📌 Always eager to learn, innovate, and collaborate on exciting projects!
 
