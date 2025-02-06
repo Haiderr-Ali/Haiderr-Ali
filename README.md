@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @Haiderr-Ali
-- 💻 Software Engineer...
-- Skills: React Native, Flutter, Dart, BLoC, Rest API, HTML, CSS, JavaScript, React.JS, SQL, C++, Problem Solving, DBMS.
-- 📫 My Linkedin :- https://www.linkedin.com/in/haider-ali-5701031a6
-- 📧 My Email :- alihaiderali1050@gmail.com
+👋 Hello, World! I'm Haider Ali
+🚀 Software Engineer | Mobile & Web Developer
 
+💡 Passionate about crafting seamless and scalable applications with React Native & Flutter. I thrive on solving complex problems and building intuitive user experiences.
+
+🛠 Tech Stack:
+
+Mobile: React Native, Flutter, Dart, BLoC, REST API
+Web: React.js, HTML, CSS, JavaScript, Tailwind CSS
+Backend & DB: Node.js, SQL, DBMS
+Core CS: Opererating System, Data Structures and Algorithm
+📌 Always eager to learn, innovate, and collaborate on exciting projects!
+
+🔗 Let’s Connect:
+📫 LinkedIn | 📧 alihaiderali1050@gmail.com
 
 <!---
 Haiderr-Ali/Haiderr-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
