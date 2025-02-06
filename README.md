@@ -16,7 +16,7 @@ Core CS: Opererating System, Data Structures and Algorithm
 📌 Always eager to learn, innovate, and collaborate on exciting projects!
 
 🔗 Let’s Connect:
-📫 LinkedIn | 📧 alihaiderali1050@gmail.com
+📫 LinkedIn: www.linkedin.com/in/haiderali81 | 📧 alihaiderali1050@gmail.com
 
 <!---
 Haiderr-Ali/Haiderr-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
