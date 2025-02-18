@@ -10,7 +10,7 @@
 
 🌐 Web: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 
-🗄 Backend & DB: Node.js, SQL, DBMS
+🗄 Backend & DB: Node.js, Express.js, SQL, DBMS
 
 💻 Core CS: Opererating System, Data Structures and Algorithm
 
