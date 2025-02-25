@@ -4,7 +4,7 @@
 
 💡 Passionate about crafting seamless and scalable applications with React Native & Flutter. I thrive on solving complex problems and      building intuitive user experiences.
 
-🛠 Tech Stack:
+🛠 Tech Stacks:
 
 📱 Mobile: React Native, Flutter, Dart, BLoC, REST API 
 
