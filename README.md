@@ -18,7 +18,6 @@
 
 🔗 Let’s Connect:
 📫 LinkedIn: www.linkedin.com/in/haiderali81 | 📧 Email: alihaiderali1050@gmail.com
-
 <!---
 Haiderr-Ali/Haiderr-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
