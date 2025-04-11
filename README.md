@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | Mobile & Web Developer
 
-💡 Passionate about crafting seamless and scalable applications with React Native & Flutter. I thrive on solving complex problems and      building intuitive user experiences.
+💡 Passionate about crafting seamless and scalable applications with React Native & Flutter. I thrive on solving complex problems and building intuitive user experiences.
 
 🛠 Tech Stacks:
 
