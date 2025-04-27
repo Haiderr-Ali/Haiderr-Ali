@@ -6,7 +6,7 @@
 
 🛠 Tech Stacks:
 
-📱 Mobile: React Native, Flutter, Dart, BLoC, REST API
+📱 Mobile: React Native, Flutter, Dart, BLoC, REST API 
 
 🌐 Web: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
 
