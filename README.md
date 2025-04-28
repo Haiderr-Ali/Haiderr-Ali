@@ -8,7 +8,7 @@
 
 📱 Mobile: React Native, Flutter, Dart, BLoC, REST API 
 
-🌐 Web: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
+🌐 Web: React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 
 🗄 Backend & DB: Node.js, Express.js, SQL, DBMS
 
