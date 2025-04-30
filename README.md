@@ -12,7 +12,7 @@
 
 🗄 Backend & DB: Node.js, Express.js, SQL, DBMS
 
-💻 Core Competencies: Opererating System, Data Structures and Algorithm 
+💻 Core Competencies: Opererating System, Data Structures and Algorithm
 
 📌 Always eager to learn, innovate, and collaborate on exciting projects!
 
