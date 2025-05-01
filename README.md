@@ -14,7 +14,7 @@
 
 💻 Core Competencies: Opererating System, Data Structures and Algorithm
 
-📌 Always eager to learn, innovate, and collaborate on exciting projects!
+📌 Always eager to learn, innovate, and collaborate on exciting projects! 
 
 🔗 Let’s Connect:
 📫 LinkedIn: www.linkedin.com/in/haiderali81 | 📧 Email: alihaiderali1050@gmail.com
