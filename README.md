@@ -1,4 +1,4 @@
-👋 Hello, World! I'm Haider Ali 
+👋 Hello, World! I'm Haider Ali
 
 🚀 Software Engineer | Mobile & Web Developer 
 
